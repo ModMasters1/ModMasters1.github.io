@@ -73,3 +73,20 @@ footer{
 #body-minecraft{
 background-image: url("../Schermafbeelding\ 2026-06-01\ 124936.png");
 }
+#mods-MC{
+    display: flex;
+    justify-content: space-around;
+}
+.mods-MC-create{
+    width: 33%;
+}
+.mods-MC-create img {
+    width: 100%;
+}
+.tekst-mod-MC{
+    color: #e0efde ;
+    background-color: #103900;
+    padding: 7px;
+    display: flex;
+    justify-content: center;
+}
